@@ -1,0 +1,64 @@
+#main{
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+    left: 50%;
+    top: 50%;
+    margin-left: -500px;
+    margin-top: -350px;
+    overflow: hidden;
+}
+.slide{
+    position: absolute;
+    width: 1000px;
+    height: 700px;
+    left: 101%;
+    top: 0%;
+    overflow: hidden;
+    background-size: 100%;
+}
+#slide1{
+    left: 0%;
+    background-image: url("pics/pic1.png");
+
+}
+#slide2{
+    background-image: url("pics/pic2.png");
+}
+#slide3{
+    background-image: url("pics/taskFone.png");
+}
+#slide4{
+    background-image: url("pics/taskFone2.png");
+}
+#slide5{
+    background-image: url("pics/taskFone3.png");
+}
+#slide6{
+    background-image: url("pics/taskFone4.png");
+}
+#slide7{
+    background-image: url("pics/taskFone5.png");
+}
+#slide8{
+    background-image: url("pics/taskFone6.png");
+}
+
+p{
+    position: absolute;
+    left: 50px;
+    font: 50px "Times New Roman";
+    width: 70%;
+}
+#tigra1{
+    position: absolute;
+    left: 600px;
+    top: 180px;
+    width: 30%;
+}
+#cheb{
+    position: absolute;
+    left: 600px;
+    top: 300px;
+    width: 30%;
+}
